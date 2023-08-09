@@ -1,0 +1,5 @@
+1182377/stelar
+440222/stelar(triplet)
+439897/astral
+
+(Sloth,(Horse,((Rabbit,Tree_Shrew),(Rat,((Galago,Mouse_Lemur),(Tarsier,((Marmoset,Macaque),((Gorilla,(Human,Chimpanzee)),Orangutan)))))))); 

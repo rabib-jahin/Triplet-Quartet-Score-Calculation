@@ -1,0 +1,1 @@
+(Sloth,(Horse,((Rabbit,Tree_Shrew),(Rat,((Galago,Mouse_Lemur),(Tarsier,((Marmoset,Macaque),((Gorilla,(Human,Chimpanzee)),Orangutan)))))))); 
